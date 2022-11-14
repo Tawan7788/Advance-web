@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\source\\repos\\AdvanceWeb\\AdvanceWeb\\AdvanceWeb.csproj": {}
+    "C:\\Users\\LENOVO\\Documents\\GitHub\\Advance-web\\AdvanceWeb\\AdvanceWeb\\AdvanceWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\source\\repos\\AdvanceWeb\\AdvanceWeb\\AdvanceWeb.csproj": {
+    "C:\\Users\\LENOVO\\Documents\\GitHub\\Advance-web\\AdvanceWeb\\AdvanceWeb\\AdvanceWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\AdvanceWeb\\AdvanceWeb\\AdvanceWeb.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Documents\\GitHub\\Advance-web\\AdvanceWeb\\AdvanceWeb\\AdvanceWeb.csproj",
         "projectName": "AdvanceWeb",
-        "projectPath": "C:\\Users\\LENOVO\\source\\repos\\AdvanceWeb\\AdvanceWeb\\AdvanceWeb.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\Documents\\GitHub\\Advance-web\\AdvanceWeb\\AdvanceWeb\\AdvanceWeb.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\source\\repos\\AdvanceWeb\\AdvanceWeb\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\Documents\\GitHub\\Advance-web\\AdvanceWeb\\AdvanceWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Newtonsoft.Json.Bson": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
