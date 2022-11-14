@@ -8648,19 +8648,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LENOVO\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\Documents\\GitHub\\Advance-web\\AdvanceWeb\\AdvanceWeb\\AdvanceWeb.csproj",
+      "projectUniqueName": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\AdvanceWeb\\AdvanceWeb\\AdvanceWeb.csproj",
       "projectName": "AdvanceWeb",
-      "projectPath": "C:\\Users\\LENOVO\\Documents\\GitHub\\Advance-web\\AdvanceWeb\\AdvanceWeb\\AdvanceWeb.csproj",
-      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\Documents\\GitHub\\Advance-web\\AdvanceWeb\\AdvanceWeb\\obj\\",
+      "projectPath": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\AdvanceWeb\\AdvanceWeb\\AdvanceWeb.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\AdvanceWeb\\AdvanceWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8713,7 +8713,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
