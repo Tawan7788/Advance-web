@@ -8648,11 +8648,16 @@
     ]
   },
   "packageFolders": {
+<<<<<<< Updated upstream
     "C:\\Users\\User\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\Lenovo\\.nuget\\packages\\": {}
+>>>>>>> Stashed changes
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< Updated upstream
       "projectUniqueName": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\AdvanceWeb\\AdvanceWeb\\AdvanceWeb.csproj",
       "projectName": "AdvanceWeb",
       "projectPath": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\AdvanceWeb\\AdvanceWeb\\AdvanceWeb.csproj",
@@ -8661,6 +8666,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\AdvanceWeb\\AdvanceWeb\\AdvanceWeb.csproj",
+      "projectName": "AdvanceWeb",
+      "projectPath": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\AdvanceWeb\\AdvanceWeb\\AdvanceWeb.csproj",
+      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+      "outputPath": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\AdvanceWeb\\AdvanceWeb\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> Stashed changes
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
