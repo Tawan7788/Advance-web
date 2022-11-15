@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\Documents\\GitHub\\Advance-web\\DemoWebAPIforstd\\DemoWebAPIforstd\\DemoWebAPIforstd.csproj": {}
+    "C:\\Users\\LENOVO\\source\\repos\\DemoWebAPIforstd\\DemoWebAPIforstd\\DemoWebAPIforstd.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\Documents\\GitHub\\Advance-web\\DemoWebAPIforstd\\DemoWebAPIforstd\\DemoWebAPIforstd.csproj": {
+    "C:\\Users\\LENOVO\\source\\repos\\DemoWebAPIforstd\\DemoWebAPIforstd\\DemoWebAPIforstd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\Documents\\GitHub\\Advance-web\\DemoWebAPIforstd\\DemoWebAPIforstd\\DemoWebAPIforstd.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\DemoWebAPIforstd\\DemoWebAPIforstd\\DemoWebAPIforstd.csproj",
         "projectName": "DemoWebAPIforstd",
-        "projectPath": "C:\\Users\\LENOVO\\Documents\\GitHub\\Advance-web\\DemoWebAPIforstd\\DemoWebAPIforstd\\DemoWebAPIforstd.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\source\\repos\\DemoWebAPIforstd\\DemoWebAPIforstd\\DemoWebAPIforstd.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\Documents\\GitHub\\Advance-web\\DemoWebAPIforstd\\DemoWebAPIforstd\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\source\\repos\\DemoWebAPIforstd\\DemoWebAPIforstd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",

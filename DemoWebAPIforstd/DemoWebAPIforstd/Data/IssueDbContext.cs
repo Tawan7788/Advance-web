@@ -3,13 +3,12 @@ using Microsoft.EntityFrameworkCore;
 
 namespace DemoWebAPIforstd.Data
 {
-    public class IssueDbContext: DbContext
+    public class IssueDbContext:DbContext
     {
-        public IssueDbContext(DbContextOptions<IssueDbContext>options): base(options)
-        {
-
+        public IssueDbContext(DbContextOptions<IssueDbContext> options) : base(options)
+        { 
+        
         }
-        public DbSet<Issue> Issues { get; set; }
-
+        public DbSet<Issue>Issues { get; set; }
     }
 }

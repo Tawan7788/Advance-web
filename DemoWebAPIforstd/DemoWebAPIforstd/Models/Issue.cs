@@ -3,25 +3,26 @@
 namespace DemoWebAPIforstd.Models
 {
     public class Issue
-
     {
-        public int Id { get; set; }
+        public int Id { get;  set; }
         [Required]
-        public string Title { get; set; }
+        public string Title { get; set;}
         [Required]
-        public string Description { get; set; }
-        public Priority Priority { get; set; }
-        public IssueType IssueType { get; set; }
-        public DateTime Created { get; set; }
-        public DateTime? Completed { get; set; }
+        public string Description { get; set;}
+       
+        public Priority Priority { get; set;}
+        public IssuType IssuType { get; set;}
+        public DateTime Create { get; set;}
+        public DateTime? Completed { get; set;}    
+
 
     }
     public enum Priority
-    {
-        lo,Medium,High
+    { 
+        Lo,Medium,High
     }
-    public enum IssueType
-    {
-        Feature,Ducumentation,Bug
+    public enum IssuType
+    { 
+        Feature,Decumentation,Bug
     }
 }

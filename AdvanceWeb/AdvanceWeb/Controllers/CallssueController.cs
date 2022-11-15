@@ -25,7 +25,7 @@ namespace AdvanceWeb.Controllers
             List<Issue> issuesList = new List<Issue>();
             using (var httpClient = new HttpClient(_clientHandler))
             {
-                using (var response = await httpClient.GetAsync("https://localhost:7148/api/Issue"))
+                using (var response = await httpClient.GetAsync("https://localhost:7122/api/Issue"))
                 {
                     string strJson = await response.Content.ReadAsStringAsync();
                     issuesList = JsonConvert.DeserializeObject<List<Issue>>(strJson);
@@ -38,7 +38,7 @@ namespace AdvanceWeb.Controllers
             Issue issue = new Issue();
             using (var httpClient = new HttpClient(_clientHandler))
             {
-                using (var response = await httpClient.GetAsync("https://localhost:7148/api/Issue/id?id=" + id))
+                using (var response = await httpClient.GetAsync("https://localhost:7122/api/Issue/id?id=" + id))
                 {
                     string strJson = await response.Content.ReadAsStringAsync();
                     issue = JsonConvert.DeserializeObject<Issue>(strJson);
@@ -64,7 +64,7 @@ namespace AdvanceWeb.Controllers
                 {
                     StringContent content =
                         new StringContent(JsonConvert.SerializeObject(issue), Encoding.UTF8, "application/json");
-                    using (var response = await httpClient.PostAsync("https://localhost:7148/api/Issue", content))
+                    using (var response = await httpClient.PostAsync("https://localhost:7122/api/Issue", content))
                     {
                         string strJson = await response.Content.ReadAsStringAsync();
                         sue = JsonConvert.DeserializeObject<Issue>(strJson);
@@ -89,7 +89,7 @@ namespace AdvanceWeb.Controllers
             Issue issue = new Issue();
             using (var httpClient = new HttpClient(_clientHandler))
             {
-                using (var response = await httpClient.GetAsync("https://localhost:7148/api/Issue/id?id=" + id))
+                using (var response = await httpClient.GetAsync("https://localhost:7122/api/Issue/id?id=" + id))
                 {
                     string strJson = await response.Content.ReadAsStringAsync();
                     issue = JsonConvert.DeserializeObject<Issue>(strJson);
@@ -108,7 +108,7 @@ namespace AdvanceWeb.Controllers
             {
                 StringContent content =
                         new StringContent(JsonConvert.SerializeObject(issue), Encoding.UTF8, "application/json");
-                using (var response = await httpClient.PutAsync("https://localhost:7148/api/Issue/id?id=" + id, content))
+                using (var response = await httpClient.PutAsync("https://localhost:7122/api/Issue/id?id=" + id, content))
                 {
 
                 }
@@ -123,7 +123,7 @@ namespace AdvanceWeb.Controllers
             using (var httpClient = new HttpClient(_clientHandler))
             {
 
-                using (var response = await httpClient.DeleteAsync("https://localhost:7148/api/Issue/" + id))
+                using (var response = await httpClient.DeleteAsync("https://localhost:7122/api/Issue/" + id))
                 {
                     del = await response.Content.ReadAsStringAsync();
                 }

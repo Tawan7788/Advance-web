@@ -29,16 +29,16 @@ namespace DemoWebAPIforstd.Controllers
         }
         [HttpPost]
         [ProducesResponseType(StatusCodes.Status201Created)]
-        public async Task<IActionResult>Create(Issue issue)
+        public async Task<IActionResult> Create(Issue issue)
         {
             await _context.Issues.AddAsync(issue);
             await _context.SaveChangesAsync();
-            return CreatedAtAction(nameof(Get), new {id = issue.Id},issue);
+            return CreatedAtAction(nameof(Get), new { id = issue.Id }, issue);
         }
         [HttpPut("id")]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        public async Task<IActionResult>Update(int id ,Issue issue)
+        public async Task<IActionResult> Update(int id, Issue issue)
         {
             if (id != issue.Id) return BadRequest();
             _context.Entry(issue).State = EntityState.Modified;
@@ -48,7 +48,7 @@ namespace DemoWebAPIforstd.Controllers
         [HttpDelete("{id}")]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
-        public async Task<IActionResult>Delete(int id)
+        public async Task<IActionResult> Delete(int id)
         {
             var issue = await _context.Issues.FindAsync(id);
             if (issue == null) return NotFound();
