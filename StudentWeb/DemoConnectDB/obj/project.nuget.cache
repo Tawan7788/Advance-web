@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sddveOuhBd0KfDBf/u1KlTVAB0v5lRZeSltLwQYmFeN0JQoj1XW903/zhK4QiKAEcPpKnQ7UNKcZ2m4L7kabQA==",
+  "dgSpecHash": "TvnXgte79WaPg3MReqj36P2K681b77qJMkHJn/uZWxUqrfx43hWdGXKgs4ZWRYiA3JaG/ivKbP0nYlCfb+eqQg==",
   "success": true,
-  "projectFilePath": "D:\\DemoConnectDB\\DemoConnectDB\\AdvanceWeb.csproj",
+  "projectFilePath": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\AdvanceWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

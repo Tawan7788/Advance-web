@@ -6172,11 +6172,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DemoConnectDB\\DemoConnectDB\\AdvanceWeb.csproj",
+      "projectUniqueName": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\AdvanceWeb.csproj",
       "projectName": "AdvanceWeb",
-      "projectPath": "D:\\DemoConnectDB\\DemoConnectDB\\AdvanceWeb.csproj",
+      "projectPath": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\AdvanceWeb.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\DemoConnectDB\\DemoConnectDB\\obj\\",
+      "outputPath": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
