@@ -109,7 +109,6 @@ namespace AdvanceWeb.Controllers
             _context.Update(s);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Edit));
-            //return View(student);
         }
         public async Task<IActionResult> Detail(int? id)
         {
