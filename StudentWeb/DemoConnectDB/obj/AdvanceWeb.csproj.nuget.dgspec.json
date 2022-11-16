@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\AdvanceWeb.csproj": {}
+    "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\AdvanceWeb.csproj": {}
   },
   "projects": {
-    "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\AdvanceWeb.csproj": {
+    "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\AdvanceWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\AdvanceWeb.csproj",
+        "projectUniqueName": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\AdvanceWeb.csproj",
         "projectName": "AdvanceWeb",
-        "projectPath": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\AdvanceWeb.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\obj\\",
+        "projectPath": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\AdvanceWeb.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
