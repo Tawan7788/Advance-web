@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "bYK2j3mY2O2eFwpsOMitJkFJVJ7qP547SjJxSsrB7Wg=",
+=======
+  "Hash": "NW4YtMDSGBcPHfiLSiRW2/k5mm+qFvFq4N0o5Q09g2c=",
+>>>>>>> 7175165172465cb9e82d7dbb6d4936d4fcbd5680
   "Source": "AdvanceWeb",
   "BasePath": "_content/AdvanceWeb",
   "Mode": "Default",
@@ -289,7 +293,28 @@
       "OriginalItemSpec": "wwwroot\\images\\69f09323-2178-460d-9093-4374e09ac4b8-lee_do_hyun_5__oofs.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\73e319c2-6d51-4de2-bb1b-a21598b87283-c0f8286b-5654-4508-98ad-6df1855db73d-content_83b9f2d57108d8b0c6962c298c3ace47.jpg",
+=======
+      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\7bc995b2-7efd-4ec6-9a66-ece871587ecf-4261374210.jpg",
+      "SourceId": "AdvanceWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "BasePath": "_content/AdvanceWeb",
+      "RelativePath": "images/7bc995b2-7efd-4ec6-9a66-ece871587ecf-4261374210.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\7bc995b2-7efd-4ec6-9a66-ece871587ecf-4261374210.jpg"
+    },
+    {
+      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\834d1d9e-85c8-4963-9a94-5d6affb753e8-4261374210.jpg",
+>>>>>>> 7175165172465cb9e82d7dbb6d4936d4fcbd5680
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",

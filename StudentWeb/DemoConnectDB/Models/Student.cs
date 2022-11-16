@@ -16,7 +16,6 @@ namespace AdvanceWeb.Models
 
         public string stuimg { get; set; }
         public double GPA { get; set; }
-
         [NotMapped]
         [DisplayName("Upload File")]
         public IFormFile ImageFile { get; set; }
