@@ -3,7 +3,7 @@
 <div class="row">
   <div class="col-md-12">
   <form asp-action="Edit" enctype="multipart/form-data" >
-			@Html.HiddenFor(c=>c.stuid)
+			@Html.HiddenFor(c=>c.id)
       <div class="form-group">
         <label asp-for="stuid" class="control-label">Student ID:</label>
         <input asp-for="stuid" class="form-control"/>
@@ -55,7 +55,7 @@
 				<input  class="btn btn-success btn-block" type="submit" value="Edit" style="width:100%"/>
 			  </div>
 			  <div class="col-xs-7 col-md-2 d-flex justify-content-end">
-				@Html.ActionLink("< Back to Detail","Detail",new{id=Model.stuid})
+				@Html.ActionLink("< Back to Detail","Detail",new{id=Model.id})
 			  </div>
 		  </div>
       </div>

@@ -8,13 +8,14 @@ namespace AdvanceWeb.Models
     {
 
         public int id { get; set; }
-        public int stuid { get; set; }
+        public string stuid { get; set; }
         public string stuname { get; set; }
         public string stulastname { get; set; }
         public string stuaddress { get; set; }
         public string stuphone { get; set; }
 
         public string stuimg { get; set; }
+        public double GPA { get; set; }
 
         [NotMapped]
         [DisplayName("Upload File")]

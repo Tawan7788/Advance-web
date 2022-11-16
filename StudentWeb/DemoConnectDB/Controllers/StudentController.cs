@@ -66,7 +66,7 @@ namespace AdvanceWeb.Controllers
         public async Task<IActionResult>Delete(int? id)
         {
             if (id == null || id <= 0) return BadRequest();
-            var student = await _context.Student.FirstOrDefaultAsync(c => c.stuid == id);
+            var student = await _context.Student.FirstOrDefaultAsync(c => c.id == id);
             if (student == null) return NotFound();
 
             _context.Student.Remove(student);
@@ -76,7 +76,7 @@ namespace AdvanceWeb.Controllers
         public async Task<IActionResult>Edit(int? id)
         {
             if(id== null || id <= 0) return BadRequest();
-            var student = await _context.Student.FirstOrDefaultAsync(c => c.stuid == id);
+            var student = await _context.Student.FirstOrDefaultAsync(c => c.id == id);
             if(student == null) return NotFound();
             return View(student);
         }
@@ -84,7 +84,7 @@ namespace AdvanceWeb.Controllers
         [HttpPost]
         public async Task<IActionResult>Edit(int id,Student student)
         {
-            var s = await _context.Student.FirstOrDefaultAsync(c => c.stuid == id);
+            var s = await _context.Student.FirstOrDefaultAsync(c => c.id == id);
             s.stuid = student.stuid;
             s.stuname = student.stuname;
             s.stulastname = student.stulastname;
@@ -106,7 +106,7 @@ namespace AdvanceWeb.Controllers
         public async Task<IActionResult> Detail(int? id)
         {
             if (id == null || id <= 0) return BadRequest();
-            var student = await _context.Student.FirstOrDefaultAsync(c => c.stuid == id);
+            var student = await _context.Student.FirstOrDefaultAsync(c => c.id == id);
             if (student == null) return NotFound();
             return View(student);
         }
