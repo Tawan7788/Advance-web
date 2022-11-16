@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RdSCQW/WXbDH82k1Ni3fBI9VZ4+vhqdVKPFPaVzLMg0=",
+  "Hash": "WEjdEuptD6c0NkIl+j3iXFyckeuu2cOA4oe4Xqux250=",
   "Source": "AdvanceWeb",
   "BasePath": "_content/AdvanceWeb",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\01897ebb-8b8e-4bbc-86e2-77187f166f8e-Simulacrum_Lin_Awaken.png"
+    },
+    {
+      "Identity": "D:\\AdvanceWeb\\.Git\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\0209e84f-9c66-4fc1-9d87-a293ca8aec0c-unnamed.jpg",
+      "SourceId": "AdvanceWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AdvanceWeb\\.Git\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "BasePath": "_content/AdvanceWeb",
+      "RelativePath": "images/0209e84f-9c66-4fc1-9d87-a293ca8aec0c-unnamed.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\0209e84f-9c66-4fc1-9d87-a293ca8aec0c-unnamed.jpg"
     },
     {
       "Identity": "D:\\AdvanceWeb\\.Git\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\180be8f0-5ef0-4336-99a2-9bbbd17e6419-89db95b50404abf5c70eac8b5a112c24.jpg",
@@ -236,6 +253,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\3d228967-a499-4953-80ff-2ec6efe0492e-unnamed.jpg"
+    },
+    {
+      "Identity": "D:\\AdvanceWeb\\.Git\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\43a67ae6-4b66-4978-8558-cac93cad3270-lee_do_hyun_5__oofs.jpg",
+      "SourceId": "AdvanceWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AdvanceWeb\\.Git\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "BasePath": "_content/AdvanceWeb",
+      "RelativePath": "images/43a67ae6-4b66-4978-8558-cac93cad3270-lee_do_hyun_5__oofs.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\43a67ae6-4b66-4978-8558-cac93cad3270-lee_do_hyun_5__oofs.jpg"
     },
     {
       "Identity": "D:\\AdvanceWeb\\.Git\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\442985ab-8da6-4331-a988-8ef778da1e8d-312808926_706570917494231_6675478914066036763_n.jpg",
@@ -389,6 +423,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\7bc995b2-7efd-4ec6-9a66-ece871587ecf-4261374210.jpg"
+    },
+    {
+      "Identity": "D:\\AdvanceWeb\\.Git\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\7d316349-e9f0-41a0-98be-7710bcc2adce-4261374210.jpg",
+      "SourceId": "AdvanceWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AdvanceWeb\\.Git\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "BasePath": "_content/AdvanceWeb",
+      "RelativePath": "images/7d316349-e9f0-41a0-98be-7710bcc2adce-4261374210.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\7d316349-e9f0-41a0-98be-7710bcc2adce-4261374210.jpg"
     },
     {
       "Identity": "D:\\AdvanceWeb\\.Git\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\7fc17cd1-d13e-48d9-97e7-0d9623e2e6a5-4261374210.jpg",

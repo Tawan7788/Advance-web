@@ -6,7 +6,6 @@ namespace AdvanceWeb.Models
 {
     public class Student
     {
-
         public int id { get; set; }
         public string stuid { get; set; }
         public string stuname { get; set; }
@@ -20,13 +19,5 @@ namespace AdvanceWeb.Models
         [NotMapped]
         [DisplayName("Upload File")]
         public IFormFile ImageFile { get; set; }
-    }
-
-    public class Subject
-    {
-
-        public string subid { get; set; }
-        public string stuname { get; set; }
-  
     }
 }

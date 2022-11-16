@@ -21,11 +21,18 @@ namespace AdvanceWeb.Controllers
             return View(student);
         }
 
+        public async Task<IActionResult> Subject()
+        {
+            var subject = await _context.Subjects.ToListAsync();
+            return View(subject);
+        }
+
         public IActionResult Create()
         {
             return View();
         }
-     
+
+
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(Student student)
@@ -62,6 +69,7 @@ namespace AdvanceWeb.Controllers
                     s.ImageFile.CopyTo(fileStream);
                 }
             }
+            else filename = s.ImageFile.FileName;
             return filename;
         }
         public async Task<IActionResult>Delete(int? id)
@@ -73,7 +81,9 @@ namespace AdvanceWeb.Controllers
             _context.Student.Remove(student);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
+            //return View(student);
         }
+
         public async Task<IActionResult>Edit(int? id)
         {
             if(id== null || id <= 0) return BadRequest();
@@ -96,14 +106,13 @@ namespace AdvanceWeb.Controllers
             {
                 string filepath = Path.Combine(_hostEnvironment.WebRootPath, "images", student.stuname);
                 System.IO.File.Delete(filepath);
-
+                
             }
-       
             s.stuimg = Uploadfile(student);
             _context.Update(s);
             await _context.SaveChangesAsync();
+
             return RedirectToAction(nameof(Edit));
-            //return View(student);
         }
         public async Task<IActionResult> Detail(int? id)
         {

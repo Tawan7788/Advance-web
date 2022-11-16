@@ -7,9 +7,7 @@ namespace AdvanceWeb.Data
     {
         public StudentContext(DbContextOptions<StudentContext> options) : base(options) { }
         public DbSet<Student> Student { get; set; }
-       /* protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            modelBuilder.Entity<Person>().HasNoKey();
-        }*/
+        public DbSet<Subject> Subjects { get; set; }
+
     }
 }
