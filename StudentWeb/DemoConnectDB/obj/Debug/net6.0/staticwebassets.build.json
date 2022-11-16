@@ -1,14 +1,6 @@
 {
   "Version": 1,
-<<<<<<< HEAD
   "Hash": "yLHWRR4HfXM+UPO5OlCDalbuouIQZluRElUR3SiBiCU=",
-=======
-<<<<<<< HEAD
-  "Hash": "qr2XxijMDdfvVsEcK9EB6XrfiSEGrCKTeJV1ypsD07U=",
-=======
-  "Hash": "+/bwBsN3hst5to6cNvusiOYDSzDVjabf1zcAhCIkkA8=",
->>>>>>> cf174088b7e3c0dcc7103548f8905be227a80f7e
->>>>>>> c71a1fd968e7232a0a189451c4388ff776ca8a81
   "Source": "AdvanceWeb",
   "BasePath": "_content/AdvanceWeb",
   "Mode": "Default",
@@ -18,17 +10,17 @@
     {
       "Name": "AdvanceWeb\\wwwroot",
       "Source": "AdvanceWeb",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\obj\\Debug\\net6.0\\scopedcss\\bundle\\AdvanceWeb.styles.css",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\obj\\Debug\\net6.0\\scopedcss\\bundle\\AdvanceWeb.styles.css",
       "SourceId": "AdvanceWeb",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "AdvanceWeb.styles.css",
       "AssetKind": "All",
@@ -39,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\obj\\Debug\\net6.0\\scopedcss\\bundle\\AdvanceWeb.styles.css"
+      "OriginalItemSpec": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\obj\\Debug\\net6.0\\scopedcss\\bundle\\AdvanceWeb.styles.css"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AdvanceWeb.bundle.scp.css",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AdvanceWeb.bundle.scp.css",
       "SourceId": "AdvanceWeb",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "AdvanceWeb.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AdvanceWeb.bundle.scp.css"
+      "OriginalItemSpec": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AdvanceWeb.bundle.scp.css"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\css\\site.css",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\css\\site.css",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -76,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\favicon.ico",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\favicon.ico",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -93,9 +85,6 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\180be8f0-5ef0-4336-99a2-9bbbd17e6419-89db95b50404abf5c70eac8b5a112c24.jpg",
-=======
       "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\01897ebb-8b8e-4bbc-86e2-77187f166f8e-Simulacrum_Lin_Awaken.png",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
@@ -114,10 +103,9 @@
     },
     {
       "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\180be8f0-5ef0-4336-99a2-9bbbd17e6419-89db95b50404abf5c70eac8b5a112c24.jpg",
->>>>>>> cf174088b7e3c0dcc7103548f8905be227a80f7e
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "images/180be8f0-5ef0-4336-99a2-9bbbd17e6419-89db95b50404abf5c70eac8b5a112c24.jpg",
       "AssetKind": "All",
@@ -131,9 +119,6 @@
       "OriginalItemSpec": "wwwroot\\images\\180be8f0-5ef0-4336-99a2-9bbbd17e6419-89db95b50404abf5c70eac8b5a112c24.jpg"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\28b8f166-adcb-4bec-a145-d67b9dcfc063-4261374210.jpg",
-=======
       "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\23afc404-c756-46a9-8e59-bd7f9248e158-fd932c5efb394f5a9060dab216148ca2.jpg",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
@@ -152,10 +137,9 @@
     },
     {
       "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\28b8f166-adcb-4bec-a145-d67b9dcfc063-4261374210.jpg",
->>>>>>> cf174088b7e3c0dcc7103548f8905be227a80f7e
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "images/28b8f166-adcb-4bec-a145-d67b9dcfc063-4261374210.jpg",
       "AssetKind": "All",
@@ -169,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\images\\28b8f166-adcb-4bec-a145-d67b9dcfc063-4261374210.jpg"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\29330cb1-ccc6-4032-a314-d453fd451572-89db95b50404abf5c70eac8b5a112c24.jpg",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\29330cb1-ccc6-4032-a314-d453fd451572-89db95b50404abf5c70eac8b5a112c24.jpg",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "images/29330cb1-ccc6-4032-a314-d453fd451572-89db95b50404abf5c70eac8b5a112c24.jpg",
       "AssetKind": "All",
@@ -186,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\images\\29330cb1-ccc6-4032-a314-d453fd451572-89db95b50404abf5c70eac8b5a112c24.jpg"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\29ed1d02-65e7-43b7-8b8f-ed8fe17a01d2-1465072561-member.jpg",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\29ed1d02-65e7-43b7-8b8f-ed8fe17a01d2-1465072561-member.jpg",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "images/29ed1d02-65e7-43b7-8b8f-ed8fe17a01d2-1465072561-member.jpg",
       "AssetKind": "All",
@@ -203,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\images\\29ed1d02-65e7-43b7-8b8f-ed8fe17a01d2-1465072561-member.jpg"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\33ba514d-86c3-4b10-98f0-133c2bdb8c3f-4261374210.jpg",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\33ba514d-86c3-4b10-98f0-133c2bdb8c3f-4261374210.jpg",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "images/33ba514d-86c3-4b10-98f0-133c2bdb8c3f-4261374210.jpg",
       "AssetKind": "All",
@@ -220,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\images\\33ba514d-86c3-4b10-98f0-133c2bdb8c3f-4261374210.jpg"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\34afba05-ad0f-470d-9092-759a2aec44ff-25a5b388-ae87-47b9-80c1-064e84a53f7f-ab05b1a6-7dc9-4129-9016-5f3b356af7c0-312808926_706570917494231_6675478914066036763_n.jpg",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\34afba05-ad0f-470d-9092-759a2aec44ff-25a5b388-ae87-47b9-80c1-064e84a53f7f-ab05b1a6-7dc9-4129-9016-5f3b356af7c0-312808926_706570917494231_6675478914066036763_n.jpg",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "images/34afba05-ad0f-470d-9092-759a2aec44ff-25a5b388-ae87-47b9-80c1-064e84a53f7f-ab05b1a6-7dc9-4129-9016-5f3b356af7c0-312808926_706570917494231_6675478914066036763_n.jpg",
       "AssetKind": "All",
@@ -237,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\34afba05-ad0f-470d-9092-759a2aec44ff-25a5b388-ae87-47b9-80c1-064e84a53f7f-ab05b1a6-7dc9-4129-9016-5f3b356af7c0-312808926_706570917494231_6675478914066036763_n.jpg"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\3d228967-a499-4953-80ff-2ec6efe0492e-unnamed.jpg",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\3d228967-a499-4953-80ff-2ec6efe0492e-unnamed.jpg",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "images/3d228967-a499-4953-80ff-2ec6efe0492e-unnamed.jpg",
       "AssetKind": "All",
@@ -254,9 +238,6 @@
       "OriginalItemSpec": "wwwroot\\images\\3d228967-a499-4953-80ff-2ec6efe0492e-unnamed.jpg"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\505f6c2f-63a0-4d44-8c99-166a79bd3ff7-4261374210.jpg",
-=======
       "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\442985ab-8da6-4331-a988-8ef778da1e8d-312808926_706570917494231_6675478914066036763_n.jpg",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
@@ -292,10 +273,9 @@
     },
     {
       "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\505f6c2f-63a0-4d44-8c99-166a79bd3ff7-4261374210.jpg",
->>>>>>> cf174088b7e3c0dcc7103548f8905be227a80f7e
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "images/505f6c2f-63a0-4d44-8c99-166a79bd3ff7-4261374210.jpg",
       "AssetKind": "All",
@@ -309,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\images\\505f6c2f-63a0-4d44-8c99-166a79bd3ff7-4261374210.jpg"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\51209998-2670-4d70-8464-d742d7cdd580-4261374210.jpg",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\51209998-2670-4d70-8464-d742d7cdd580-4261374210.jpg",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "images/51209998-2670-4d70-8464-d742d7cdd580-4261374210.jpg",
       "AssetKind": "All",
@@ -326,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\images\\51209998-2670-4d70-8464-d742d7cdd580-4261374210.jpg"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\6249649b-765b-49e4-845c-268c73c09565-4261374210.jpg",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\6249649b-765b-49e4-845c-268c73c09565-4261374210.jpg",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "images/6249649b-765b-49e4-845c-268c73c09565-4261374210.jpg",
       "AssetKind": "All",
@@ -343,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\images\\6249649b-765b-49e4-845c-268c73c09565-4261374210.jpg"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\672f2a35-bddc-41a5-9421-904f26d66396-ab05b1a6-7dc9-4129-9016-5f3b356af7c0-312808926_706570917494231_6675478914066036763_n.jpg",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\672f2a35-bddc-41a5-9421-904f26d66396-ab05b1a6-7dc9-4129-9016-5f3b356af7c0-312808926_706570917494231_6675478914066036763_n.jpg",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "images/672f2a35-bddc-41a5-9421-904f26d66396-ab05b1a6-7dc9-4129-9016-5f3b356af7c0-312808926_706570917494231_6675478914066036763_n.jpg",
       "AssetKind": "All",
@@ -360,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\672f2a35-bddc-41a5-9421-904f26d66396-ab05b1a6-7dc9-4129-9016-5f3b356af7c0-312808926_706570917494231_6675478914066036763_n.jpg"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\69f09323-2178-460d-9093-4374e09ac4b8-lee_do_hyun_5__oofs.jpg",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\69f09323-2178-460d-9093-4374e09ac4b8-lee_do_hyun_5__oofs.jpg",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "images/69f09323-2178-460d-9093-4374e09ac4b8-lee_do_hyun_5__oofs.jpg",
       "AssetKind": "All",
@@ -377,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\images\\69f09323-2178-460d-9093-4374e09ac4b8-lee_do_hyun_5__oofs.jpg"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\73e319c2-6d51-4de2-bb1b-a21598b87283-c0f8286b-5654-4508-98ad-6df1855db73d-content_83b9f2d57108d8b0c6962c298c3ace47.jpg",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\73e319c2-6d51-4de2-bb1b-a21598b87283-c0f8286b-5654-4508-98ad-6df1855db73d-content_83b9f2d57108d8b0c6962c298c3ace47.jpg",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "images/73e319c2-6d51-4de2-bb1b-a21598b87283-c0f8286b-5654-4508-98ad-6df1855db73d-content_83b9f2d57108d8b0c6962c298c3ace47.jpg",
       "AssetKind": "All",
@@ -394,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\images\\73e319c2-6d51-4de2-bb1b-a21598b87283-c0f8286b-5654-4508-98ad-6df1855db73d-content_83b9f2d57108d8b0c6962c298c3ace47.jpg"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\7bc995b2-7efd-4ec6-9a66-ece871587ecf-4261374210.jpg",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\7bc995b2-7efd-4ec6-9a66-ece871587ecf-4261374210.jpg",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "images/7bc995b2-7efd-4ec6-9a66-ece871587ecf-4261374210.jpg",
       "AssetKind": "All",
@@ -411,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\images\\7bc995b2-7efd-4ec6-9a66-ece871587ecf-4261374210.jpg"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\834d1d9e-85c8-4963-9a94-5d6affb753e8-4261374210.jpg",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\834d1d9e-85c8-4963-9a94-5d6affb753e8-4261374210.jpg",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "images/834d1d9e-85c8-4963-9a94-5d6affb753e8-4261374210.jpg",
       "AssetKind": "All",
@@ -428,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\images\\834d1d9e-85c8-4963-9a94-5d6affb753e8-4261374210.jpg"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\8fff6b52-bc30-4f25-a31d-f47fc4897fca-lee_do_hyun_5__oofs.jpg",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\8fff6b52-bc30-4f25-a31d-f47fc4897fca-lee_do_hyun_5__oofs.jpg",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "images/8fff6b52-bc30-4f25-a31d-f47fc4897fca-lee_do_hyun_5__oofs.jpg",
       "AssetKind": "All",
@@ -445,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\images\\8fff6b52-bc30-4f25-a31d-f47fc4897fca-lee_do_hyun_5__oofs.jpg"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\92b7ae26-e640-4b89-a399-7034e6ec027c-unnamed.jpg",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\92b7ae26-e640-4b89-a399-7034e6ec027c-unnamed.jpg",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "images/92b7ae26-e640-4b89-a399-7034e6ec027c-unnamed.jpg",
       "AssetKind": "All",
@@ -462,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\images\\92b7ae26-e640-4b89-a399-7034e6ec027c-unnamed.jpg"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\94ed951e-e261-4397-91b0-d15beae09a7b-89db95b50404abf5c70eac8b5a112c24.jpg",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\94ed951e-e261-4397-91b0-d15beae09a7b-89db95b50404abf5c70eac8b5a112c24.jpg",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "images/94ed951e-e261-4397-91b0-d15beae09a7b-89db95b50404abf5c70eac8b5a112c24.jpg",
       "AssetKind": "All",
@@ -479,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\images\\94ed951e-e261-4397-91b0-d15beae09a7b-89db95b50404abf5c70eac8b5a112c24.jpg"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\9d3c4331-b6a0-443f-8b45-4edc0763c2ae-89db95b50404abf5c70eac8b5a112c24.jpg",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\9d3c4331-b6a0-443f-8b45-4edc0763c2ae-89db95b50404abf5c70eac8b5a112c24.jpg",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "images/9d3c4331-b6a0-443f-8b45-4edc0763c2ae-89db95b50404abf5c70eac8b5a112c24.jpg",
       "AssetKind": "All",
@@ -496,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\images\\9d3c4331-b6a0-443f-8b45-4edc0763c2ae-89db95b50404abf5c70eac8b5a112c24.jpg"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\a4561fbb-4f36-4ea4-a0f5-0ec924baac41-lee_do_hyun_5__oofs (2).jpg",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\a4561fbb-4f36-4ea4-a0f5-0ec924baac41-lee_do_hyun_5__oofs (2).jpg",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "images/a4561fbb-4f36-4ea4-a0f5-0ec924baac41-lee_do_hyun_5__oofs (2).jpg",
       "AssetKind": "All",
@@ -513,9 +493,6 @@
       "OriginalItemSpec": "wwwroot\\images\\a4561fbb-4f36-4ea4-a0f5-0ec924baac41-lee_do_hyun_5__oofs (2).jpg"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\a9d8317a-bedc-4612-8756-f6be710c669c-4261374210.jpg",
-=======
       "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\a8b14de7-1c5c-484c-91cb-fc63da4b9cea-a1fa3654f7a9d26effcde1fa2832cecb.jpg",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
@@ -534,10 +511,9 @@
     },
     {
       "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\a9d8317a-bedc-4612-8756-f6be710c669c-4261374210.jpg",
->>>>>>> cf174088b7e3c0dcc7103548f8905be227a80f7e
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "images/a9d8317a-bedc-4612-8756-f6be710c669c-4261374210.jpg",
       "AssetKind": "All",
@@ -551,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\images\\a9d8317a-bedc-4612-8756-f6be710c669c-4261374210.jpg"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\aba145ce-1d5c-4cdc-8db9-614e688f8ace-Jaehyun1.jpg",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\aba145ce-1d5c-4cdc-8db9-614e688f8ace-Jaehyun1.jpg",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "images/aba145ce-1d5c-4cdc-8db9-614e688f8ace-Jaehyun1.jpg",
       "AssetKind": "All",
@@ -568,7 +544,6 @@
       "OriginalItemSpec": "wwwroot\\images\\aba145ce-1d5c-4cdc-8db9-614e688f8ace-Jaehyun1.jpg"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\b671d1a1-ebb3-481e-8b6d-fd2dd80f883b-312808926_706570917494231_6675478914066036763_n.jpg",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
@@ -587,12 +562,9 @@
     },
     {
       "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\bbd15176-7dde-4e55-9919-503a9d94a73a-89db95b50404abf5c70eac8b5a112c24.jpg",
-=======
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\bbd15176-7dde-4e55-9919-503a9d94a73a-89db95b50404abf5c70eac8b5a112c24.jpg",
->>>>>>> c71a1fd968e7232a0a189451c4388ff776ca8a81
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "images/bbd15176-7dde-4e55-9919-503a9d94a73a-89db95b50404abf5c70eac8b5a112c24.jpg",
       "AssetKind": "All",
@@ -606,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bbd15176-7dde-4e55-9919-503a9d94a73a-89db95b50404abf5c70eac8b5a112c24.jpg"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\bff1d249-5bbe-473a-8fac-76d9a4845cce-Jaehyun1.jpg",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\bff1d249-5bbe-473a-8fac-76d9a4845cce-Jaehyun1.jpg",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "images/bff1d249-5bbe-473a-8fac-76d9a4845cce-Jaehyun1.jpg",
       "AssetKind": "All",
@@ -623,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bff1d249-5bbe-473a-8fac-76d9a4845cce-Jaehyun1.jpg"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\c0f8286b-5654-4508-98ad-6df1855db73d-content_83b9f2d57108d8b0c6962c298c3ace47.jpg",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\c0f8286b-5654-4508-98ad-6df1855db73d-content_83b9f2d57108d8b0c6962c298c3ace47.jpg",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "images/c0f8286b-5654-4508-98ad-6df1855db73d-content_83b9f2d57108d8b0c6962c298c3ace47.jpg",
       "AssetKind": "All",
@@ -640,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\images\\c0f8286b-5654-4508-98ad-6df1855db73d-content_83b9f2d57108d8b0c6962c298c3ace47.jpg"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\cfaf2d77-a63f-4bce-913b-052fd08ff1b9-lee_do_hyun_5__oofs.jpg",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\cfaf2d77-a63f-4bce-913b-052fd08ff1b9-lee_do_hyun_5__oofs.jpg",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "images/cfaf2d77-a63f-4bce-913b-052fd08ff1b9-lee_do_hyun_5__oofs.jpg",
       "AssetKind": "All",
@@ -657,9 +629,6 @@
       "OriginalItemSpec": "wwwroot\\images\\cfaf2d77-a63f-4bce-913b-052fd08ff1b9-lee_do_hyun_5__oofs.jpg"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\e362b581-74ff-4af2-8500-e68c94102d7b-4261374210.jpg",
-=======
       "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\d0674553-b038-4de9-8abe-3c3dd3802db0-313407064_706570920827564_2972646950879110335_n.jpg",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
@@ -695,10 +664,9 @@
     },
     {
       "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\e362b581-74ff-4af2-8500-e68c94102d7b-4261374210.jpg",
->>>>>>> cf174088b7e3c0dcc7103548f8905be227a80f7e
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "images/e362b581-74ff-4af2-8500-e68c94102d7b-4261374210.jpg",
       "AssetKind": "All",
@@ -712,7 +680,6 @@
       "OriginalItemSpec": "wwwroot\\images\\e362b581-74ff-4af2-8500-e68c94102d7b-4261374210.jpg"
     },
     {
-<<<<<<< HEAD
       "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\e7eddaaf-cea6-402f-8646-8fa841e1d9f3-313407064_706570920827564_2972646950879110335_n.jpg",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
@@ -731,12 +698,9 @@
     },
     {
       "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\e9aaf773-1977-4d85-82b1-bfc43af02ce5-98b30e39-dc85-40b2-9ad7-3f2c28663654-Untitled_Artwork 4.png",
-=======
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\e9aaf773-1977-4d85-82b1-bfc43af02ce5-98b30e39-dc85-40b2-9ad7-3f2c28663654-Untitled_Artwork 4.png",
->>>>>>> c71a1fd968e7232a0a189451c4388ff776ca8a81
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "images/e9aaf773-1977-4d85-82b1-bfc43af02ce5-98b30e39-dc85-40b2-9ad7-3f2c28663654-Untitled_Artwork 4.png",
       "AssetKind": "All",
@@ -750,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\images\\e9aaf773-1977-4d85-82b1-bfc43af02ce5-98b30e39-dc85-40b2-9ad7-3f2c28663654-Untitled_Artwork 4.png"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\js\\site.js",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\js\\site.js",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -767,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -784,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -801,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -818,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -835,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -852,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -869,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -886,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -903,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -920,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -937,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -954,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -971,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -988,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1005,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1022,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1039,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1056,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1073,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1090,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1107,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1124,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1141,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1158,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1175,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1192,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1209,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1226,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1243,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1260,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1277,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1294,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1311,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1328,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1345,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1362,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1379,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1396,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1413,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1430,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1447,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1464,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1481,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1498,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1515,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1532,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1549,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1566,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1583,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1600,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1617,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1634,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1651,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1668,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1685,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1702,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1719,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
       "BasePath": "_content/AdvanceWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
