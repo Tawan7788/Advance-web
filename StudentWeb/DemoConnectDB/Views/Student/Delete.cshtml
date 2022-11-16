@@ -1,50 +1,44 @@
 ﻿@model AdvanceWeb.Models.Student
-<h1 class="text-center">EDIT</h1>
+<h1 class="text-center">DELETE</h1>
 <div class="row">
   <div class="col-md-12">
-  <form asp-action="Edit" enctype="multipart/form-data" >
-			@Html.HiddenFor(c=>c.id)
+
       <div class="form-group">
         <label asp-for="stuid" class="control-label">Student ID:</label>
-        <input asp-for="stuid" class="form-control"/>
+        <input asp-for="stuid" class="form-control" disabled/>
       </div>
 	  <br />
       <div class="form-group">
         <label asp-for="stuname" class="control-label">Name:</label>
-        <input asp-for="stuname" class="form-control" />
+        <input asp-for="stuname" class="form-control" disabled/>
       </div>
 	  <br />
 	  <div class="form-group">
         <label asp-for="stulastname" class="control-label">Last Name:</label>
-        <input asp-for="stulastname" class="form-control"/>
+        <input asp-for="stulastname" class="form-control" disabled/>
       </div>
 	  <br />
 	  
 	  <div class="form-group">
         <label asp-for="stuaddress" class="control-label">Address:</label>
-        <input asp-for="stuaddress" class="form-control" />
+        <input asp-for="stuaddress" class="form-control" disabled/>
       </div>
 	  <br />
 	  <div class="form-group">
         <label asp-for="stuphone" class="control-label">Phone:</label>
-        <input asp-for="stuphone" class="form-control" />
+        <input asp-for="stuphone" class="form-control" disabled/>
       </div>
 	  <br />
 	  <div class="form-group">
         <label asp-for="GPA" class="control-label">GPA:</label>
-        <input asp-for="GPA" class="form-control" />
-      </div>
-	  <br />
-	  <div class="form-group">
-		<label asp-for="ImageFile">Select Image:</label>
-		<input asp-for="ImageFile" accept="images/*" class="form-control"/>
+        <input asp-for="GPA" class="form-control" disabled/>
       </div>
 	  <br />
 	  <div class="form-group">
 		  <div class="row">
 			  <div class="col-xs-5 col-md-8">
 				<label asp-for="stuimg" class="control-label">Image Name:</label>
-				<input asp-for="stuimg" class="form-control"/>
+				<input asp-for="stuimg" class="form-control" disabled/>
 			  </div>
 			  <br />
 			  <div class="col-xs-7 col-md-4">
@@ -56,13 +50,12 @@
       <div class="form-group">
 		  <div class="row align-items-center">
 			  <div class="col-xs-5 col-md-10">
-				<input  class="btn btn-success btn-block" type="submit" value="Edit" style="width:100%"/>
+				<input  class="btn btn-success btn-block" type="submit" value="Delete" style="width:100%"/>
 			  </div>
 			  <div class="col-xs-7 col-md-2 d-flex justify-content-end">
-				@Html.ActionLink("< Back to Detail","Detail",new{id=Model.id})
+				@Html.ActionLink("< Back to Home","Index")
 			  </div>
 		  </div>
       </div>
-	</form>
   </div>
 </div>

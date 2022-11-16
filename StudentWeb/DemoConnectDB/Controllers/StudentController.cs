@@ -63,16 +63,7 @@ namespace AdvanceWeb.Controllers
             }
             return filename;
         }
-        public async Task<IActionResult>Delete(int? id)
-        {
-            if (id == null || id <= 0) return BadRequest();
-            var student = await _context.Student.FirstOrDefaultAsync(c => c.id == id);
-            if (student == null) return NotFound();
 
-            _context.Student.Remove(student);
-            await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
-        }
         public async Task<IActionResult>Edit(int? id)
         {
             if(id== null || id <= 0) return BadRequest();
@@ -109,6 +100,47 @@ namespace AdvanceWeb.Controllers
             var student = await _context.Student.FirstOrDefaultAsync(c => c.id == id);
             if (student == null) return NotFound();
             return View(student);
+        }
+
+        public async Task<IActionResult> Delete(int? id)
+        {
+            if (id == null || id <= 0) return BadRequest();
+            var student = await _context.Student.FirstOrDefaultAsync(c => c.id == id);
+            if (student == null) return NotFound();
+            return View(student);
+            /*View(student);
+            _context.Student.Remove(student);
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));*/
+
+
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Delete(int id, Student student)
+        {
+
+            /*if (id == null || id <= 0) return BadRequest();
+            var student = await _context.Student.FirstOrDefaultAsync(c => c.id == id);
+            if (student == null) return NotFound();
+
+            _context.Student.Remove(student);
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));*/
+
+            var s = await _context.Student.FirstOrDefaultAsync(c => c.id == id);
+            s.stuid = student.stuid;
+            s.stuname = student.stuname;
+            s.stulastname = student.stulastname;
+            s.stuaddress = student.stuaddress;
+            s.stuphone = student.stuphone;
+            s.stuimg = student.stuimg;
+            s.GPA = student.GPA;
+
+            _context.Student.Remove(student);
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
         }
     }
 }
