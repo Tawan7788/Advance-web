@@ -15,8 +15,27 @@
       </div>
 	  <br />
       <div class="form-group">
-        <label asp-for="stulastname" class="control-label">Student LastName:</label>
+        <label asp-for="stulastname" class="control-label">Last Name:</label>
         <input asp-for="stulastname" class="form-control" disabled/>
+      </div>
+	  <br />
+      <div class="form-group">
+        <label asp-for="stuaddress" class="control-label">Address:</label>
+        <input asp-for="stuaddress" class="form-control" disabled/>
+      </div>
+	  <br />
+      <div class="form-group">
+        <label asp-for="stuphone" class="control-label">Phone:</label>
+        <input asp-for="stuphone" class="form-control" disabled/>
+      </div>
+	  <br />
+      <div class="form-group">
+        <label asp-for="GPA" class="control-label">GPA:</label>
+        <input asp-for="GPA" class="form-control" disabled/>
+      </div>
+	  <br />
+      <div class="form-group">
+        <img src="@("~/images/"+Model.stuimg)" class="rounded" style="width: 100%" asp-append-version="true"/>
       </div>
 	  <br />
       <table class="table table-hover" >
