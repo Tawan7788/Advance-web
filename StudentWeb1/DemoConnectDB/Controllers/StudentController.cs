@@ -21,6 +21,12 @@ namespace AdvanceWeb.Controllers
             return View(student);
         }
 
+        public async Task<IActionResult> Subject()
+        {
+            var subject = await _context.Subject.ToListAsync();
+            return View(subject);
+        }
+
         public IActionResult Create()
         {
             return View();

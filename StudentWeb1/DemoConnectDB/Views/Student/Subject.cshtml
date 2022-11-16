@@ -1,0 +1,42 @@
+﻿@model IEnumerable<AdvanceWeb.Models.Subject>
+
+<h1 class="text-center">SUBJECT</h1>
+<table class="table table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>
+                ID
+            </th>
+            <th>
+                SubjectID
+            </th>
+            <th>
+                Subject Name
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.subid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.subname)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<div class="form-group">
+    <div class="row">
+        <div class="d-flex justify-content-end align-items-end">
+            @Html.ActionLink("< Back to Home","Index")
+        </div>
+    </div>
+</div>
