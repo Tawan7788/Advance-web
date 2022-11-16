@@ -21,12 +21,6 @@
             <th>
                 Lastname
             </th>
-            @*<td>
-                @Html.DisplayNameFor(m=>m.stuaddress)
-            </td>
-            <td>
-                @Html.DisplayNameFor(m=>m.stuphone)
-            </td>*@
             <th>
                 GPA
             </th>
@@ -48,12 +42,6 @@
             <td>
                 @Html.DisplayFor(m=>item.stulastname)
             </td>
-            @*<td>
-                @Html.DisplayFor(m=>item.stuaddress)
-            </td>
-            <td>
-                @Html.DisplayFor(m=>item.stuphone)
-            </td>*@
             <td>
                 @Html.DisplayFor(m=>item.GPA)
             </td>
@@ -61,8 +49,6 @@
                 <a href="@Url.Action("Detail","Student",new{id=item.id})" class="btn btn-secondary">
                     <i class="bi bi-list"></i>          
                 </a>
-                @*| @Html.ActionLink("Edit","Edit",new{id=item.ID}) |
-                @Html.ActionLink("Delete","Delete",new{id=item.ID},new{onclick="return confirm ('Are sure wants to Delete?')"})*@
             </td>
         </tr>
 			
