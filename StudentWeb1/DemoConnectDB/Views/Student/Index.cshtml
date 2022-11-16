@@ -1,0 +1,69 @@
+﻿@model IEnumerable<AdvanceWeb.Models.Student>
+
+<h1 class="text-center">STUDENT</h1>
+<p>
+	<div class="d-flex justify-content-end">
+		<a asp-action="Create" class="btn btn-warning">Create New</a>
+	</div>
+</p>
+
+<table class="table table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>
+                StudentID
+            </th>
+            <th>
+                Firstname
+            </th>
+            <th>
+                Lastname
+            </th>
+            @*<td>
+                @Html.DisplayNameFor(m=>m.stuaddress)
+            </td>
+            <td>
+                @Html.DisplayNameFor(m=>m.stuphone)
+            </td>*@
+            <th>
+                GPA
+            </th>
+		    <th>
+		    </th>
+        </tr>
+	</thead>
+
+	<tbody>
+		@foreach(var item in Model)
+		{
+			<tr>
+            <td>
+               @Html.DisplayFor(m=>item.stuid)
+            </td>
+            <td>
+                @Html.DisplayFor(m=>item.stuname)
+            </td>
+            <td>
+                @Html.DisplayFor(m=>item.stulastname)
+            </td>
+            @*<td>
+                @Html.DisplayFor(m=>item.stuaddress)
+            </td>
+            <td>
+                @Html.DisplayFor(m=>item.stuphone)
+            </td>*@
+            <td>
+                @Html.DisplayFor(m=>item.GPA)
+            </td>
+            <td style="text-align:center">
+                <a href="@Url.Action("Detail","Student",new{id=item.id})" class="btn btn-secondary">
+                    <i class="bi bi-list"></i>          
+                </a>
+                @*| @Html.ActionLink("Edit","Edit",new{id=item.ID}) |
+                @Html.ActionLink("Delete","Delete",new{id=item.ID},new{onclick="return confirm ('Are sure wants to Delete?')"})*@
+            </td>
+        </tr>
+			
+		}
+	</tbody>
+</table>

@@ -1,0 +1,151 @@
+﻿@model AdvanceWeb.Models.Student
+@*@model IEnumerable<DemoConnectDB.Models.Student>*@
+
+<div class="col">
+    <div class="row">
+        <div class="col mb-3">
+            <div class="card">
+                <div class="card-body">
+                    <h1 class="text-center">DETAIL</h1>
+                    <div class="e-profile">
+                        <div class="row">
+                            <div class="col-12 col-sm-auto mb-3">
+                                <div class="mx-auto" style="width: 100px;">
+                                    <div class="d-flex justify-content-center align-items-center rounded" style="height: 100px; background-color: white;">
+                                        <img src="@("~/images/"+Model.stuimg)" class="rounded" style="width: 100%" asp-append-version="true"/>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="row">
+                                    <div class="row">
+							            <div class="col-md-4">
+								            <div class="form-group">
+									            <label asp-for="stuid" class="control-label">Student ID:</label>
+                                                <input asp-for="stuid" id="stuid" class="form-control" disabled/>
+								            </div>
+							            </div>
+							            <div class="col-md-4">
+								            <div class="form-group">
+									            <label asp-for="stuname" class="control-label">First Name:</label>
+                                                <input asp-for="stuname" class="form-control" disabled/>
+								            </div>
+							            </div>
+							            <div class="col-md-4">
+								            <div class="form-group">
+									            <label asp-for="stulastname" class="control-label">Last Name:</label>
+                                                <input asp-for="stulastname" class="form-control" disabled/>
+								            </div>
+							            </div>
+						            </div>
+						            <br />
+
+                                    <div class="row">
+							            <div class="col-md-4">
+								            <div class="form-group">
+									            <label asp-for="stuaddress" class="control-label">Address:</label>
+                                                <input asp-for="stuaddress" class="form-control" disabled/>
+								            </div>
+							            </div>
+							            <div class="col-md-4">
+								            <div class="form-group">
+									            <label asp-for="stuphone" class="control-label">Phone:</label>
+                                                <input asp-for="stuphone" class="form-control" disabled/>
+								            </div>
+							            </div>
+							            <div class="col-md-4">
+								            <div class="form-group">
+									            <label asp-for="GPA" class="control-label">GPA:</label>
+                                                <input asp-for="GPA" class="form-control" disabled/>
+								            </div>
+							            </div>
+						            </div>
+						            <br />
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <br />
+                    <table class="table table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>
+                StudentID
+            </th>
+            <th>
+                Firstname
+            </th>
+            <th>
+                Lastname
+            </th>
+            @*<td>
+                @Html.DisplayNameFor(m=>m.stuaddress)
+            </td>
+            <td>
+                @Html.DisplayNameFor(m=>m.stuphone)
+            </td>*@
+            <th>
+                GPA
+            </th>
+		    <th>
+		    </th>
+        </tr>
+	</thead>
+
+	<tbody>
+		@*@foreach(var item in Model)
+		{
+			<tr>
+            <td>
+               @Html.DisplayFor(m=>item.stuid)
+            </td>
+            <td>
+                @Html.DisplayFor(m=>item.stuname)
+            </td>
+            <td>
+                @Html.DisplayFor(m=>item.stulastname)
+            </td>
+            <td>
+                @Html.DisplayFor(m=>item.stuaddress)
+            </td>
+            <td>
+                @Html.DisplayFor(m=>item.stuphone)
+            </td>
+            <td>
+                @Html.DisplayFor(m=>item.GPA)
+            </td>
+            <td>
+                <a href="@Url.Action("Detail","Student",new{id=item.id})" class="btn btn-secondary">
+                    <i class="bi bi-list"></i>          
+                </a>
+                | @Html.ActionLink("Edit","Edit",new{id=item.ID}) |
+                @Html.ActionLink("Delete","Delete",new{id=item.ID},new{onclick="return confirm ('Are sure wants to Delete?')"})
+            </td>
+        </tr>
+			
+		}*@
+	</tbody>
+</table>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="form-group">
+    <div class="row">
+        <div class="d-flex justify-content-center">
+            <a href="@Url.Action("Edit","Student",new{id=Model.id})" class="btn btn-secondary">
+                <i class="bi bi-pencil-square"></i>
+            </a>&emsp;
+            <a href="@Url.Action("Delete","Student",new{id=Model.id})" class="btn btn-secondary">
+                <i class="bi bi-trash"></i>
+            </a>
+        </div>
+        <div class="d-flex justify-content-end align-items-end">
+            @Html.ActionLink("< Back to Home","Index")
+        </div>
+    </div>
+</div>
