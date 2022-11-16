@@ -15,10 +15,18 @@ namespace AdvanceWeb.Models
         public string stuphone { get; set; }
 
         public string stuimg { get; set; }
-        public double GPA { get; set; }
+        public string GPA { get; set; }
 
         [NotMapped]
         [DisplayName("Upload File")]
         public IFormFile ImageFile { get; set; }
+    }
+
+    public class Subject
+    {
+
+        public string subid { get; set; }
+        public string stuname { get; set; }
+  
     }
 }
