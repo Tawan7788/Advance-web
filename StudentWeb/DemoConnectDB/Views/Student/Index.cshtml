@@ -1,4 +1,5 @@
 ﻿@model IEnumerable<AdvanceWeb.Models.Student>
+
 <h1 class="text-center">STUDENT</h1>
 <p>
 	<div class="d-flex justify-content-end">
@@ -6,31 +7,32 @@
 	</div>
 </p>
 
-<table class="table table-hover" >
-	<thead class="table-dark">
-		<td>
-            @Html.DisplayNameFor(m=>m.stuid)
-        </td>
-        <td>
-            @Html.DisplayNameFor(m=>m.stuname)
-        </td>
-        <td>
-            @Html.DisplayNameFor(m=>m.stulastname)
-        </td>
-        @*<td>
-            @Html.DisplayNameFor(m=>m.stuaddress)
-        </td>
-        <td>
-            @Html.DisplayNameFor(m=>m.stuphone)
-        </td>*@
-        <td>
-            @Html.DisplayNameFor(m=>m.GPA)
-        </td>
-		<th>
-			
-		</th>
-		
+<table class="table table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>
+                StudentID
+            </th>
+            <th>
+                Firstname
+            </th>
+            <th>
+                Lastname
+            </th>
+            @*<td>
+                @Html.DisplayNameFor(m=>m.stuaddress)
+            </td>
+            <td>
+                @Html.DisplayNameFor(m=>m.stuphone)
+            </td>*@
+            <th>
+                GPA
+            </th>
+		    <th>
+		    </th>
+        </tr>
 	</thead>
+
 	<tbody>
 		@foreach(var item in Model)
 		{
@@ -54,8 +56,9 @@
                 @Html.DisplayFor(m=>item.GPA)
             </td>
             <td>
-                
-                @Html.ActionLink("Detail","Detail",new{id=item.id}) 
+                <a href="@Url.Action("Detail","Student",new{id=item.id})" class="btn btn-secondary">
+                    <i class="bi bi-list"></i>          
+                </a>
                 @*| @Html.ActionLink("Edit","Edit",new{id=item.ID}) |
                 @Html.ActionLink("Delete","Delete",new{id=item.ID},new{onclick="return confirm ('Are sure wants to Delete?')"})*@
             </td>
