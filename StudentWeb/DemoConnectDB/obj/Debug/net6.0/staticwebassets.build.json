@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "C9uQDZlyLeEENq2LA0J/3kCInyzXjCPWjtkY3IRe4Gk=",
+  "Hash": "NW4YtMDSGBcPHfiLSiRW2/k5mm+qFvFq4N0o5Q09g2c=",
   "Source": "AdvanceWeb",
   "BasePath": "_content/AdvanceWeb",
   "Mode": "Default",
@@ -253,6 +253,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\69f09323-2178-460d-9093-4374e09ac4b8-lee_do_hyun_5__oofs.jpg"
+    },
+    {
+      "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\7bc995b2-7efd-4ec6-9a66-ece871587ecf-4261374210.jpg",
+      "SourceId": "AdvanceWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "BasePath": "_content/AdvanceWeb",
+      "RelativePath": "images/7bc995b2-7efd-4ec6-9a66-ece871587ecf-4261374210.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\7bc995b2-7efd-4ec6-9a66-ece871587ecf-4261374210.jpg"
     },
     {
       "Identity": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\834d1d9e-85c8-4963-9a94-5d6affb753e8-4261374210.jpg",
