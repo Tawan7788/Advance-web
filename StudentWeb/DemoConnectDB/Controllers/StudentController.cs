@@ -38,6 +38,7 @@ namespace AdvanceWeb.Controllers
                 stulastname = student.stulastname,
                 stuaddress = student.stuaddress,
                 stuphone = student.stuphone,
+                GPA = student.GPA,
                 stuimg = filename
             };
 
@@ -90,6 +91,7 @@ namespace AdvanceWeb.Controllers
             s.stulastname = student.stulastname;
             s.stuaddress = student.stuaddress;
             s.stuphone = student.stuphone;
+            s.GPA = student.GPA;
             if (student.stuimg != null)
             {
                 string filepath = Path.Combine(_hostEnvironment.WebRootPath, "images", student.stuname);

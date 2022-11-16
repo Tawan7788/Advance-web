@@ -21,4 +21,12 @@ namespace AdvanceWeb.Models
         [DisplayName("Upload File")]
         public IFormFile ImageFile { get; set; }
     }
+
+    public class Subject
+    {
+
+        public string subid { get; set; }
+        public string stuname { get; set; }
+  
+    }
 }
