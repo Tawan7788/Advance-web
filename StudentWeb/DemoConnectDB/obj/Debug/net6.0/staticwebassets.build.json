@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+/bwBsN3hst5to6cNvusiOYDSzDVjabf1zcAhCIkkA8=",
+  "Hash": "yLHWRR4HfXM+UPO5OlCDalbuouIQZluRElUR3SiBiCU=",
   "Source": "AdvanceWeb",
   "BasePath": "_content/AdvanceWeb",
   "Mode": "Default",
@@ -544,6 +544,23 @@
       "OriginalItemSpec": "wwwroot\\images\\aba145ce-1d5c-4cdc-8db9-614e688f8ace-Jaehyun1.jpg"
     },
     {
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\b671d1a1-ebb3-481e-8b6d-fd2dd80f883b-312808926_706570917494231_6675478914066036763_n.jpg",
+      "SourceId": "AdvanceWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "BasePath": "_content/AdvanceWeb",
+      "RelativePath": "images/b671d1a1-ebb3-481e-8b6d-fd2dd80f883b-312808926_706570917494231_6675478914066036763_n.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\b671d1a1-ebb3-481e-8b6d-fd2dd80f883b-312808926_706570917494231_6675478914066036763_n.jpg"
+    },
+    {
       "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\bbd15176-7dde-4e55-9919-503a9d94a73a-89db95b50404abf5c70eac8b5a112c24.jpg",
       "SourceId": "AdvanceWeb",
       "SourceType": "Discovered",
@@ -661,6 +678,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\e362b581-74ff-4af2-8500-e68c94102d7b-4261374210.jpg"
+    },
+    {
+      "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\e7eddaaf-cea6-402f-8646-8fa841e1d9f3-313407064_706570920827564_2972646950879110335_n.jpg",
+      "SourceId": "AdvanceWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\",
+      "BasePath": "_content/AdvanceWeb",
+      "RelativePath": "images/e7eddaaf-cea6-402f-8646-8fa841e1d9f3-313407064_706570920827564_2972646950879110335_n.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\e7eddaaf-cea6-402f-8646-8fa841e1d9f3-313407064_706570920827564_2972646950879110335_n.jpg"
     },
     {
       "Identity": "D:\\AdvanceWeb\\code\\FinalProject\\Advance-web\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\e9aaf773-1977-4d85-82b1-bfc43af02ce5-98b30e39-dc85-40b2-9ad7-3f2c28663654-Untitled_Artwork 4.png",
