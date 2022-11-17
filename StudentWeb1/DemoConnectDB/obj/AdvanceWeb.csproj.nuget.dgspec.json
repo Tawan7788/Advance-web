@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb1\\DemoConnectDB\\AdvanceWeb.csproj": {}
+    "C:\\Users\\LENOVO\\Documents\\GitHub\\Advance-web\\StudentWeb1\\DemoConnectDB\\AdvanceWeb.csproj": {}
   },
   "projects": {
-    "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb1\\DemoConnectDB\\AdvanceWeb.csproj": {
+    "C:\\Users\\LENOVO\\Documents\\GitHub\\Advance-web\\StudentWeb1\\DemoConnectDB\\AdvanceWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb1\\DemoConnectDB\\AdvanceWeb.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Documents\\GitHub\\Advance-web\\StudentWeb1\\DemoConnectDB\\AdvanceWeb.csproj",
         "projectName": "AdvanceWeb",
-        "projectPath": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb1\\DemoConnectDB\\AdvanceWeb.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\AdvanceWeb\\.Final_Project\\Advance-web\\StudentWeb1\\DemoConnectDB\\obj\\",
+        "projectPath": "C:\\Users\\LENOVO\\Documents\\GitHub\\Advance-web\\StudentWeb1\\DemoConnectDB\\AdvanceWeb.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LENOVO\\Documents\\GitHub\\Advance-web\\StudentWeb1\\DemoConnectDB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
