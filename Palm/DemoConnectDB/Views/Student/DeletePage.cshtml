@@ -1,0 +1,78 @@
+﻿@model AdvanceWeb.Models.Student
+
+<div class="d-flex justify-content-center">
+    <div class="card border-primary mb-3" style="max-width: 50rem;">
+        <div class="card-body">
+			<h1 class="text-center">DELETE</h1>
+			<div class="row">
+				<div class="col-md-12">
+						<div class="row justify-content-center">
+							<div class="col-xs-7 col-md-4">
+								<img src="@("~/images/"+Model.stuimg)" class="rounded" style="width: 100%" asp-append-version="true"/>
+							</div>
+						</div>
+						<br />
+
+						<div class="row">
+							<div class="col-md-4">
+								<div class="form-group">
+									<label asp-for="stuid" class="control-label">Student ID:</label>
+									<input asp-for="stuid" class="form-control" disabled/>
+								</div>
+							</div>
+							<div class="col-md-4">
+								<div class="form-group">
+									<label asp-for="stuname" class="control-label">First Name:</label>
+									<input asp-for="stuname" class="form-control" disabled/>
+								</div>
+							</div>
+							<div class="col-md-4">
+								<div class="form-group">
+									<label asp-for="stulastname" class="control-label">Last Name:</label>
+									<input asp-for="stulastname" class="form-control" disabled/>
+								</div>
+							</div>
+						</div>
+						<br />
+
+						<div class="row">
+							<div class="col-md-4">
+								<div class="form-group">
+									<label asp-for="stuaddress" class="control-label">Address:</label>
+									<input asp-for="stuaddress" class="form-control" disabled/>
+								</div>
+							</div>
+							<div class="col-md-4">
+								<div class="form-group">
+									<label asp-for="stuphone" class="control-label">Phone:</label>
+									<input asp-for="stuphone" class="form-control" disabled/>
+								</div>
+							</div>
+							<div class="col-md-4">
+								<div class="form-group">
+									<label asp-for="GPA" class="control-label">GPA:</label>
+									<input asp-for="GPA" class="form-control" disabled/>
+								</div>
+							</div>
+						</div>
+						<br />
+
+						<div class="form-group">
+							<div class="row align-items-center">
+								<div class="col-xs-5 col-md-10">
+									<a href="@Url.Action("Delete","Student",new{id=Model.id})" class="btn btn-danger btn-block" style="width:100%">
+										Delete
+									</a>
+								</div>
+								<div class="col-xs-7 col-md-2 d-flex justify-content-end">
+									<a href="@Url.Action("Detail","Student",new{id=Model.id})" class="btn btn-info">
+										Previous
+									</a>
+								</div>
+							</div>
+						</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
