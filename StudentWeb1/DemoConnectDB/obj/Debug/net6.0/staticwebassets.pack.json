@@ -1,0 +1,429 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AdvanceWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AdvanceWeb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\01897ebb-8b8e-4bbc-86e2-77187f166f8e-Simulacrum_Lin_Awaken.png",
+      "PackagePath": "staticwebassets\\images\\01897ebb-8b8e-4bbc-86e2-77187f166f8e-Simulacrum_Lin_Awaken.png"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\180be8f0-5ef0-4336-99a2-9bbbd17e6419-89db95b50404abf5c70eac8b5a112c24.jpg",
+      "PackagePath": "staticwebassets\\images\\180be8f0-5ef0-4336-99a2-9bbbd17e6419-89db95b50404abf5c70eac8b5a112c24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\183be2c9-970e-4130-a78e-ed80106fe5f7-Et9h4AyVgAItePU.jpg",
+      "PackagePath": "staticwebassets\\images\\183be2c9-970e-4130-a78e-ed80106fe5f7-Et9h4AyVgAItePU.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\23afc404-c756-46a9-8e59-bd7f9248e158-fd932c5efb394f5a9060dab216148ca2.jpg",
+      "PackagePath": "staticwebassets\\images\\23afc404-c756-46a9-8e59-bd7f9248e158-fd932c5efb394f5a9060dab216148ca2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\28b8f166-adcb-4bec-a145-d67b9dcfc063-4261374210.jpg",
+      "PackagePath": "staticwebassets\\images\\28b8f166-adcb-4bec-a145-d67b9dcfc063-4261374210.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\29330cb1-ccc6-4032-a314-d453fd451572-89db95b50404abf5c70eac8b5a112c24.jpg",
+      "PackagePath": "staticwebassets\\images\\29330cb1-ccc6-4032-a314-d453fd451572-89db95b50404abf5c70eac8b5a112c24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\29ed1d02-65e7-43b7-8b8f-ed8fe17a01d2-1465072561-member.jpg",
+      "PackagePath": "staticwebassets\\images\\29ed1d02-65e7-43b7-8b8f-ed8fe17a01d2-1465072561-member.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\33ba514d-86c3-4b10-98f0-133c2bdb8c3f-4261374210.jpg",
+      "PackagePath": "staticwebassets\\images\\33ba514d-86c3-4b10-98f0-133c2bdb8c3f-4261374210.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\34afba05-ad0f-470d-9092-759a2aec44ff-25a5b388-ae87-47b9-80c1-064e84a53f7f-ab05b1a6-7dc9-4129-9016-5f3b356af7c0-312808926_706570917494231_6675478914066036763_n.jpg",
+      "PackagePath": "staticwebassets\\images\\34afba05-ad0f-470d-9092-759a2aec44ff-25a5b388-ae87-47b9-80c1-064e84a53f7f-ab05b1a6-7dc9-4129-9016-5f3b356af7c0-312808926_706570917494231_6675478914066036763_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\3ae8c866-e180-4598-b04a-9e2a2ca66e3b-cake.jpg",
+      "PackagePath": "staticwebassets\\images\\3ae8c866-e180-4598-b04a-9e2a2ca66e3b-cake.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\3d228967-a499-4953-80ff-2ec6efe0492e-unnamed.jpg",
+      "PackagePath": "staticwebassets\\images\\3d228967-a499-4953-80ff-2ec6efe0492e-unnamed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\442985ab-8da6-4331-a988-8ef778da1e8d-312808926_706570917494231_6675478914066036763_n.jpg",
+      "PackagePath": "staticwebassets\\images\\442985ab-8da6-4331-a988-8ef778da1e8d-312808926_706570917494231_6675478914066036763_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\46376fd9-ff27-4d13-b40b-1dfae850b757-5.jpg",
+      "PackagePath": "staticwebassets\\images\\46376fd9-ff27-4d13-b40b-1dfae850b757-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\4892d193-dfb8-4c52-90d2-a480cba23905-เมด้า.jpg",
+      "PackagePath": "staticwebassets\\images\\4892d193-dfb8-4c52-90d2-a480cba23905-เมด้า.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\505f6c2f-63a0-4d44-8c99-166a79bd3ff7-4261374210.jpg",
+      "PackagePath": "staticwebassets\\images\\505f6c2f-63a0-4d44-8c99-166a79bd3ff7-4261374210.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\51209998-2670-4d70-8464-d742d7cdd580-4261374210.jpg",
+      "PackagePath": "staticwebassets\\images\\51209998-2670-4d70-8464-d742d7cdd580-4261374210.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\6249649b-765b-49e4-845c-268c73c09565-4261374210.jpg",
+      "PackagePath": "staticwebassets\\images\\6249649b-765b-49e4-845c-268c73c09565-4261374210.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\672f2a35-bddc-41a5-9421-904f26d66396-ab05b1a6-7dc9-4129-9016-5f3b356af7c0-312808926_706570917494231_6675478914066036763_n.jpg",
+      "PackagePath": "staticwebassets\\images\\672f2a35-bddc-41a5-9421-904f26d66396-ab05b1a6-7dc9-4129-9016-5f3b356af7c0-312808926_706570917494231_6675478914066036763_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\69f09323-2178-460d-9093-4374e09ac4b8-lee_do_hyun_5__oofs.jpg",
+      "PackagePath": "staticwebassets\\images\\69f09323-2178-460d-9093-4374e09ac4b8-lee_do_hyun_5__oofs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\73e319c2-6d51-4de2-bb1b-a21598b87283-c0f8286b-5654-4508-98ad-6df1855db73d-content_83b9f2d57108d8b0c6962c298c3ace47.jpg",
+      "PackagePath": "staticwebassets\\images\\73e319c2-6d51-4de2-bb1b-a21598b87283-c0f8286b-5654-4508-98ad-6df1855db73d-content_83b9f2d57108d8b0c6962c298c3ace47.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\7bc995b2-7efd-4ec6-9a66-ece871587ecf-4261374210.jpg",
+      "PackagePath": "staticwebassets\\images\\7bc995b2-7efd-4ec6-9a66-ece871587ecf-4261374210.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\834d1d9e-85c8-4963-9a94-5d6affb753e8-4261374210.jpg",
+      "PackagePath": "staticwebassets\\images\\834d1d9e-85c8-4963-9a94-5d6affb753e8-4261374210.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\8fff6b52-bc30-4f25-a31d-f47fc4897fca-lee_do_hyun_5__oofs.jpg",
+      "PackagePath": "staticwebassets\\images\\8fff6b52-bc30-4f25-a31d-f47fc4897fca-lee_do_hyun_5__oofs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\92b7ae26-e640-4b89-a399-7034e6ec027c-unnamed.jpg",
+      "PackagePath": "staticwebassets\\images\\92b7ae26-e640-4b89-a399-7034e6ec027c-unnamed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\94ed951e-e261-4397-91b0-d15beae09a7b-89db95b50404abf5c70eac8b5a112c24.jpg",
+      "PackagePath": "staticwebassets\\images\\94ed951e-e261-4397-91b0-d15beae09a7b-89db95b50404abf5c70eac8b5a112c24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\9d3c4331-b6a0-443f-8b45-4edc0763c2ae-89db95b50404abf5c70eac8b5a112c24.jpg",
+      "PackagePath": "staticwebassets\\images\\9d3c4331-b6a0-443f-8b45-4edc0763c2ae-89db95b50404abf5c70eac8b5a112c24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\9fa03345-2629-4b0d-b665-78b370698d3e-1.jpg",
+      "PackagePath": "staticwebassets\\images\\9fa03345-2629-4b0d-b665-78b370698d3e-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\a4561fbb-4f36-4ea4-a0f5-0ec924baac41-lee_do_hyun_5__oofs (2).jpg",
+      "PackagePath": "staticwebassets\\images\\a4561fbb-4f36-4ea4-a0f5-0ec924baac41-lee_do_hyun_5__oofs (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\a8b14de7-1c5c-484c-91cb-fc63da4b9cea-a1fa3654f7a9d26effcde1fa2832cecb.jpg",
+      "PackagePath": "staticwebassets\\images\\a8b14de7-1c5c-484c-91cb-fc63da4b9cea-a1fa3654f7a9d26effcde1fa2832cecb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\a9d8317a-bedc-4612-8756-f6be710c669c-4261374210.jpg",
+      "PackagePath": "staticwebassets\\images\\a9d8317a-bedc-4612-8756-f6be710c669c-4261374210.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\aba145ce-1d5c-4cdc-8db9-614e688f8ace-Jaehyun1.jpg",
+      "PackagePath": "staticwebassets\\images\\aba145ce-1d5c-4cdc-8db9-614e688f8ace-Jaehyun1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\b671d1a1-ebb3-481e-8b6d-fd2dd80f883b-312808926_706570917494231_6675478914066036763_n.jpg",
+      "PackagePath": "staticwebassets\\images\\b671d1a1-ebb3-481e-8b6d-fd2dd80f883b-312808926_706570917494231_6675478914066036763_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\bbd15176-7dde-4e55-9919-503a9d94a73a-89db95b50404abf5c70eac8b5a112c24.jpg",
+      "PackagePath": "staticwebassets\\images\\bbd15176-7dde-4e55-9919-503a9d94a73a-89db95b50404abf5c70eac8b5a112c24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\bff1d249-5bbe-473a-8fac-76d9a4845cce-Jaehyun1.jpg",
+      "PackagePath": "staticwebassets\\images\\bff1d249-5bbe-473a-8fac-76d9a4845cce-Jaehyun1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\c0f8286b-5654-4508-98ad-6df1855db73d-content_83b9f2d57108d8b0c6962c298c3ace47.jpg",
+      "PackagePath": "staticwebassets\\images\\c0f8286b-5654-4508-98ad-6df1855db73d-content_83b9f2d57108d8b0c6962c298c3ace47.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\cfaf2d77-a63f-4bce-913b-052fd08ff1b9-lee_do_hyun_5__oofs.jpg",
+      "PackagePath": "staticwebassets\\images\\cfaf2d77-a63f-4bce-913b-052fd08ff1b9-lee_do_hyun_5__oofs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\d0674553-b038-4de9-8abe-3c3dd3802db0-313407064_706570920827564_2972646950879110335_n.jpg",
+      "PackagePath": "staticwebassets\\images\\d0674553-b038-4de9-8abe-3c3dd3802db0-313407064_706570920827564_2972646950879110335_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\d3fe1fe4-4312-4750-9983-3e57c845a0f0-top-of-nen-abilities-in-Hunter-x-Hunter_10.png",
+      "PackagePath": "staticwebassets\\images\\d3fe1fe4-4312-4750-9983-3e57c845a0f0-top-of-nen-abilities-in-Hunter-x-Hunter_10.png"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\e362b581-74ff-4af2-8500-e68c94102d7b-4261374210.jpg",
+      "PackagePath": "staticwebassets\\images\\e362b581-74ff-4af2-8500-e68c94102d7b-4261374210.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\e9aaf773-1977-4d85-82b1-bfc43af02ce5-98b30e39-dc85-40b2-9ad7-3f2c28663654-Untitled_Artwork 4.png",
+      "PackagePath": "staticwebassets\\images\\e9aaf773-1977-4d85-82b1-bfc43af02ce5-98b30e39-dc85-40b2-9ad7-3f2c28663654-Untitled_Artwork 4.png"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\images\\ed063b70-a230-48be-b959-0de3c88dd4df-coffee.jpg",
+      "PackagePath": "staticwebassets\\images\\ed063b70-a230-48be-b959-0de3c88dd4df-coffee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tonna\\OneDrive\\เดสก์ท็อป\\StudentWeb\\DemoConnectDB\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.AdvanceWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.AdvanceWeb.props",
+      "PackagePath": "build\\AdvanceWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AdvanceWeb.props",
+      "PackagePath": "buildMultiTargeting\\AdvanceWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.AdvanceWeb.props",
+      "PackagePath": "buildTransitive\\AdvanceWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,57 @@
+﻿@model IEnumerable<AdvanceWeb.Models.Student>
+
+<h1 class="text-center">STUDENT</h1>
+<p>
+	<div class="d-flex justify-content-end">
+		<a asp-action="Subject" class="btn btn-warning">Subject Veiw</a>
+        &nbsp;
+		<a asp-action="Create" class="btn btn-warning">Create New</a>
+	</div>
+</p>
+
+<table class="table table-hover" id="dataTable">
+    <thead class="table-dark">
+        <tr>
+            <th>
+                StudentID
+            </th>
+            <th>
+                Firstname
+            </th>
+            <th>
+                Lastname
+            </th>
+            <th>
+                GPA
+            </th>
+		    <th>
+		    </th>
+        </tr>
+	</thead>
+
+	<tbody>
+		@foreach(var item in Model)
+		{
+			<tr>
+            <td>
+               @Html.DisplayFor(m=>item.stuid)
+            </td>
+            <td>
+                @Html.DisplayFor(m=>item.stuname)
+            </td>
+            <td>
+                @Html.DisplayFor(m=>item.stulastname)
+            </td>
+            <td>
+                @Html.DisplayFor(m=>item.GPA)
+            </td>
+            <td style="text-align:center">
+                <a href="@Url.Action("Detail","Student",new{id=item.id})" class="btn btn-secondary">
+                    <i class="bi bi-list"></i>          
+                </a>
+            </td>
+        </tr>
+			
+		}
+	</tbody>
+</table>

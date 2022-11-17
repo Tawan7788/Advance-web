@@ -1,0 +1,36 @@
+﻿@model IEnumerable<AdvanceWeb.Models.Subject>
+
+<h1 class="text-center">SUBJECT</h1>
+
+<table class="table table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.subid)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.subname)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.subid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.subname)
+            </td>
+            
+        </tr>
+        }
+    </tbody>
+</table>
