@@ -8,61 +8,81 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AdvanceWeb
 build_property.RootNamespace = AdvanceWeb
-build_property.ProjectDir = D:\AdvanceWeb\code\FinalProject\Advance-web\StudentWeb1\DemoConnectDB\
+build_property.ProjectDir = C:\Users\LENOVO\Documents\GitHub\Advance-web\StudentWeb1\DemoConnectDB\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\AdvanceWeb\code\FinalProject\Advance-web\StudentWeb1\DemoConnectDB
+build_property.MSBuildProjectDirectory = C:\Users\LENOVO\Documents\GitHub\Advance-web\StudentWeb1\DemoConnectDB
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/AdvanceWeb/code/FinalProject/Advance-web/StudentWeb1/DemoConnectDB/Views/Home/Index.cshtml]
+[C:/Users/LENOVO/Documents/GitHub/Advance-web/StudentWeb1/DemoConnectDB/Views/CallSubject/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsbFN1YmplY3RcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LENOVO/Documents/GitHub/Advance-web/StudentWeb1/DemoConnectDB/Views/CallSubject/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsbFN1YmplY3RcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LENOVO/Documents/GitHub/Advance-web/StudentWeb1/DemoConnectDB/Views/CallSubject/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsbFN1YmplY3RcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LENOVO/Documents/GitHub/Advance-web/StudentWeb1/DemoConnectDB/Views/CallSubject/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsbFN1YmplY3RcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LENOVO/Documents/GitHub/Advance-web/StudentWeb1/DemoConnectDB/Views/CallSubject/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsbFN1YmplY3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/LENOVO/Documents/GitHub/Advance-web/StudentWeb1/DemoConnectDB/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AdvanceWeb/code/FinalProject/Advance-web/StudentWeb1/DemoConnectDB/Views/Home/Privacy.cshtml]
+[C:/Users/LENOVO/Documents/GitHub/Advance-web/StudentWeb1/DemoConnectDB/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AdvanceWeb/code/FinalProject/Advance-web/StudentWeb1/DemoConnectDB/Views/Shared/Error.cshtml]
+[C:/Users/LENOVO/Documents/GitHub/Advance-web/StudentWeb1/DemoConnectDB/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AdvanceWeb/code/FinalProject/Advance-web/StudentWeb1/DemoConnectDB/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/LENOVO/Documents/GitHub/Advance-web/StudentWeb1/DemoConnectDB/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AdvanceWeb/code/FinalProject/Advance-web/StudentWeb1/DemoConnectDB/Views/Student/Create.cshtml]
+[C:/Users/LENOVO/Documents/GitHub/Advance-web/StudentWeb1/DemoConnectDB/Views/Student/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AdvanceWeb/code/FinalProject/Advance-web/StudentWeb1/DemoConnectDB/Views/Student/Delete.cshtml]
+[C:/Users/LENOVO/Documents/GitHub/Advance-web/StudentWeb1/DemoConnectDB/Views/Student/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AdvanceWeb/code/FinalProject/Advance-web/StudentWeb1/DemoConnectDB/Views/Student/Detail.cshtml]
+[C:/Users/LENOVO/Documents/GitHub/Advance-web/StudentWeb1/DemoConnectDB/Views/Student/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AdvanceWeb/code/FinalProject/Advance-web/StudentWeb1/DemoConnectDB/Views/Student/Edit.cshtml]
+[C:/Users/LENOVO/Documents/GitHub/Advance-web/StudentWeb1/DemoConnectDB/Views/Student/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AdvanceWeb/code/FinalProject/Advance-web/StudentWeb1/DemoConnectDB/Views/Student/Index.cshtml]
+[C:/Users/LENOVO/Documents/GitHub/Advance-web/StudentWeb1/DemoConnectDB/Views/Student/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AdvanceWeb/code/FinalProject/Advance-web/StudentWeb1/DemoConnectDB/Views/Student/Subject.cshtml]
+[C:/Users/LENOVO/Documents/GitHub/Advance-web/StudentWeb1/DemoConnectDB/Views/Student/Subject.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxTdWJqZWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AdvanceWeb/code/FinalProject/Advance-web/StudentWeb1/DemoConnectDB/Views/_ViewImports.cshtml]
+[C:/Users/LENOVO/Documents/GitHub/Advance-web/StudentWeb1/DemoConnectDB/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AdvanceWeb/code/FinalProject/Advance-web/StudentWeb1/DemoConnectDB/Views/_ViewStart.cshtml]
+[C:/Users/LENOVO/Documents/GitHub/Advance-web/StudentWeb1/DemoConnectDB/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AdvanceWeb/code/FinalProject/Advance-web/StudentWeb1/DemoConnectDB/Views/Shared/_Layout.cshtml]
+[C:/Users/LENOVO/Documents/GitHub/Advance-web/StudentWeb1/DemoConnectDB/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-3npxkdbw9b

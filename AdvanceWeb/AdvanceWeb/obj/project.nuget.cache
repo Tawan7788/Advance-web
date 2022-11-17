@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B2P246tXsWahAWErbSvWuRHEo2q+c7CPXJTUBAcYfwxbSq45PqKkhoYPzfh+2gt+oRaIPX3Wkf1aUIMunFKpQA==",
+  "dgSpecHash": "csuz4Cct3lQclYJNMhr3hA1y8U1SPSKHUVa2jivNP17FCcN4IV10xWUY5Q/5KbM70Q+iK2PB8yWJerzSq+oh1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\source\\repos\\AdvanceWeb\\AdvanceWeb\\AdvanceWeb.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\Documents\\GitHub\\Advance-web\\AdvanceWeb\\AdvanceWeb\\AdvanceWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
