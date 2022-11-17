@@ -1,4 +1,5 @@
 ﻿using AdvanceWeb.Models;
+using DemoWebAPIforstd.Models;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using System.Text;
@@ -16,35 +17,36 @@ namespace AdvanceWeb.Controllers
         // GET: CallIssueController
         public async Task<ActionResult> Index()
         {
-            var issue = await GetIssue();
-            return View(issue);
+            var enroll = await Getenroll();
+            return View(enroll);
         }
         [HttpGet]
-        public async Task<List<Issue>> GetIssue()
+
+        public async Task<List<Enroll>> Getenroll()
         {
-            List<Issue> issuesList = new List<Issue>();
+            List<Enroll> enrollList = new List<Enroll>();
             using (var httpClient = new HttpClient(_clientHandler))
             {
-                using (var response = await httpClient.GetAsync("https://localhost:7122/api/Issue"))
+                using (var response = await httpClient.GetAsync("https://localhost:7122/api/Enroll"))
                 {
                     string strJson = await response.Content.ReadAsStringAsync();
-                    issuesList = JsonConvert.DeserializeObject<List<Issue>>(strJson);
+                    enrollList = JsonConvert.DeserializeObject<List<Enroll>>(strJson);
                 }
             }
-            return issuesList;
+            return enrollList;
         }
         public async Task<ActionResult> Details(int id)
         {
-            Issue issue = new Issue();
+            Enroll enroll = new Enroll();
             using (var httpClient = new HttpClient(_clientHandler))
             {
-                using (var response = await httpClient.GetAsync("https://localhost:7122/api/Issue/id?id=" + id))
+                using (var response = await httpClient.GetAsync("https://localhost:7122/api/Enroll/id?id=" + id))
                 {
                     string strJson = await response.Content.ReadAsStringAsync();
-                    issue = JsonConvert.DeserializeObject<Issue>(strJson);
+                    enroll = JsonConvert.DeserializeObject<Enroll>(strJson);
                 }
             }
-            return View(issue);
+            return View(enroll);
         }
 
         // GET: CallIssueController/Create
@@ -55,26 +57,26 @@ namespace AdvanceWeb.Controllers
         // POST: CallIssueController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<ActionResult> Create(Issue issue)
+        public async Task<ActionResult> Create(Enroll enroll)
         {
             try
             {
-                Issue sue = new Issue();
+                Enroll en = new Enroll();
                 using (var httpClient = new HttpClient(_clientHandler))
                 {
                     StringContent content =
-                        new StringContent(JsonConvert.SerializeObject(issue), Encoding.UTF8, "application/json");
-                    using (var response = await httpClient.PostAsync("https://localhost:7122/api/Issue", content))
+                        new StringContent(JsonConvert.SerializeObject(enroll), Encoding.UTF8, "application/json");
+                    using (var response = await httpClient.PostAsync("https://localhost:7122/api/Enroll", content))
                     {
                         string strJson = await response.Content.ReadAsStringAsync();
-                        sue = JsonConvert.DeserializeObject<Issue>(strJson);
+                        en = JsonConvert.DeserializeObject<Enroll>(strJson);
                         if (ModelState.IsValid)
                         {
                             return RedirectToAction(nameof(Index));
                         }
                     }
                 }
-                return View(sue);
+                return View(en);
             }
             catch
             {
@@ -83,68 +85,5 @@ namespace AdvanceWeb.Controllers
 
         }
 
-        // GET: CallIssueController/Edit/5
-        public async Task<ActionResult> Edit(int id)
-        {
-            Issue issue = new Issue();
-            using (var httpClient = new HttpClient(_clientHandler))
-            {
-                using (var response = await httpClient.GetAsync("https://localhost:7122/api/Issue/id?id=" + id))
-                {
-                    string strJson = await response.Content.ReadAsStringAsync();
-                    issue = JsonConvert.DeserializeObject<Issue>(strJson);
-                }
-            }
-            return View(issue);
-        }
-
-        // POST: CallIssueController/Edit/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<ActionResult> Edit(int id, Issue issue)
-        {
-            Issue sue = new Issue();
-            using (var httpClient = new HttpClient(_clientHandler))
-            {
-                StringContent content =
-                        new StringContent(JsonConvert.SerializeObject(issue), Encoding.UTF8, "application/json");
-                using (var response = await httpClient.PutAsync("https://localhost:7122/api/Issue/id?id=" + id, content))
-                {
-
-                }
-            }
-            return RedirectToAction(nameof(Index));
-        }
-
-        // GET: CallIssueController/Delete/5
-        public async Task<ActionResult> Delete(int id)
-        {
-            string del = "";
-            using (var httpClient = new HttpClient(_clientHandler))
-            {
-
-                using (var response = await httpClient.DeleteAsync("https://localhost:7122/api/Issue/" + id))
-                {
-                    del = await response.Content.ReadAsStringAsync();
-                }
-            }
-
-            return RedirectToAction(nameof(Index));
-        }
-
-        // POST: CallIssueController/Delete/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
-        {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
-        }
     }
 }
